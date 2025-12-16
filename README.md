@@ -100,4 +100,3 @@ profiler.summary()
 ```
 
 ---
-**Author Note**: This project demonstrates systems-level programming capabilities, spanning from Python application logic to hardware-specific CUDA optimization strategies.
